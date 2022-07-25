@@ -30,8 +30,12 @@ public class Reporting {
 		ReportBuilder report=new ReportBuilder(jsonfiles,configu);
 		report.generateReports();
 		
+		System.out.println("bommi");
+		System.out.println("bommi");
+		System.out.println("bommi");
 		System.out.println("aadhi");
 		System.out.println("aadhi");
 		System.out.println("aadhi");
+		
 	}
 }
