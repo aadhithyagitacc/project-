@@ -33,6 +33,9 @@ public class Reporting {
 		System.out.println("bommi");
 		System.out.println("bommi");
 		System.out.println("bommi");
+		System.out.println("aadhi");
+		System.out.println("aadhi");
+		System.out.println("aadhi");
 		
 	}
 }
